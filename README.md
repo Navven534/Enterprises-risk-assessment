@@ -1,5 +1,5 @@
 # Enterprise-risk-assessment-dataset
-This is the dataset of article “ xxx ". The dataset includes the basic information、risk features and labels of 500 companies and their one-hop neighbors as well as two-hop neighbors. The statistic of dataset is shown as the following table:
+This is the dataset of article “ A large-scale corporation knowledge graph for risk identification in finance corporations ”. The dataset includes the basic information、risk features and labels of 500 companies and their one-hop neighbors as well as two-hop neighbors. The statistic of dataset is shown as the following table:
 
 
 <table  border="1" >
